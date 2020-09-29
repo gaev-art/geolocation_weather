@@ -14,12 +14,12 @@ export default function Header() {
                 <Toolbar className={style.container}>
                     <div className={style.grow}/>
                     <List className={style.nav}>
-                        <NavLink to='/' >
+                        <NavLink to='/'>
                             <ListItem button>
-                                Geolocation Weather
+                                Geolocation and Weather
                             </ListItem>
                         </NavLink>
-                        <NavLink to='/history' >
+                        <NavLink to='/history'>
                             <ListItem button>
                                 History
                             </ListItem>

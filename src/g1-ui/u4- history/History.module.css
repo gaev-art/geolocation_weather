@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    overflow-y: scroll;
+
+}
+
+.item {
+    margin: 30px;
+
+}

@@ -1,11 +1,11 @@
 .container {
-    grid-area: n;
-    background: #61dafb;
 
 }
 
 .grow {
     flex-grow: 1;
+    background: #61dafb;
+
 }
 
 .nav {

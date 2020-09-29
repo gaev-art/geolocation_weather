@@ -3,16 +3,8 @@
     margin: 0 auto;
     grid-template-areas:"h" "c";
 
-    grid-template-rows: 80px 1fr;
-    /*grid-template-columns: 1fr;*/
+    grid-template-rows: 60px 1fr;
 
-
-    /*display: grid;*/
-    /*margin: 0 auto;*/
-    /*grid-template-areas: "h h" "n c";*/
-
-    /*grid-template-rows: 60px 1fr;*/
-    /*grid-template-columns: 3fr 10fr;*/
 }
 
 .appWrapperContent {
