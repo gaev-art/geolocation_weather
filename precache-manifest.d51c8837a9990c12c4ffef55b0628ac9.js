@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d3fe85b3c2a559db73aac961e506167",
+    "revision": "235af5cc77bed1e0e0eaafaeffcc8429",
     "url": "/geolocation_weather/index.html"
   },
   {
-    "revision": "2a36d34d969c7f43e900",
+    "revision": "dcb7794e66038bfe08d0",
     "url": "/geolocation_weather/static/css/main.ca7f9caf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/geolocation_weather/static/js/2.a5a729a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a36d34d969c7f43e900",
-    "url": "/geolocation_weather/static/js/main.7d3c76bd.chunk.js"
+    "revision": "dcb7794e66038bfe08d0",
+    "url": "/geolocation_weather/static/js/main.a0c07b9c.chunk.js"
   },
   {
     "revision": "9096f9e2004e49ba9dab",
