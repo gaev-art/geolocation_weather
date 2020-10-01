@@ -1,16 +1,16 @@
 import React from 'react';
 import {render} from 'react-dom';
 import './index.css';
-import App from './g1-ui/App';
 import * as serviceWorker from './serviceWorker';
 import {Provider} from 'react-redux';
 import {store} from './g2-bll/store';
 import {BrowserRouter} from 'react-router-dom';
+import AppContainer from './g1-ui/AppContainer';
 
 render(
     <BrowserRouter>
         <Provider store={store}>
-            <App/>
+            <AppContainer/>
         </Provider>
     </BrowserRouter>,
     document.getElementById('root')

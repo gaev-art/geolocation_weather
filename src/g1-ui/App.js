@@ -6,7 +6,8 @@ import Weather from './u3-weather/Weather';
 import {Route, Switch} from 'react-router-dom';
 import History from './u4- history/History';
 
-const ReactGeolocation = () => {
+function ReactGeolocation() {
+
     return <>
         <Geolocation/>
         <Weather/>
@@ -14,6 +15,7 @@ const ReactGeolocation = () => {
 }
 
 function App() {
+
     return <div className={style.appWrapper}>
         <Header/>
         <div className={style.appWrapperContent}>
