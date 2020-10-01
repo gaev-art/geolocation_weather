@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/geolocation_wether/static/css/main.c10f4c29.chunk.css",
+    "main.js": "/geolocation_wether/static/js/main.fb9f76d3.chunk.js",
+    "main.js.map": "/geolocation_wether/static/js/main.fb9f76d3.chunk.js.map",
+    "runtime-main.js": "/geolocation_wether/static/js/runtime-main.f5031eed.js",
+    "runtime-main.js.map": "/geolocation_wether/static/js/runtime-main.f5031eed.js.map",
+    "static/js/2.171ecf6d.chunk.js": "/geolocation_wether/static/js/2.171ecf6d.chunk.js",
+    "static/js/2.171ecf6d.chunk.js.map": "/geolocation_wether/static/js/2.171ecf6d.chunk.js.map",
+    "index.html": "/geolocation_wether/index.html",
+    "precache-manifest.e9d9651192cb5aced9a7ab4f271694b6.js": "/geolocation_wether/precache-manifest.e9d9651192cb5aced9a7ab4f271694b6.js",
+    "service-worker.js": "/geolocation_wether/service-worker.js",
+    "static/css/main.c10f4c29.chunk.css.map": "/geolocation_wether/static/css/main.c10f4c29.chunk.css.map",
+    "static/js/2.171ecf6d.chunk.js.LICENSE.txt": "/geolocation_wether/static/js/2.171ecf6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5031eed.js",
+    "static/js/2.171ecf6d.chunk.js",
+    "static/css/main.c10f4c29.chunk.css",
+    "static/js/main.fb9f76d3.chunk.js"
+  ]
+}
